@@ -1,4 +1,4 @@
-# connect_sql_server_from_jupyter_notebook
+# connect sql server from jupyter notebook
 
 Insall pypyodbc 
 
